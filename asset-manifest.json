@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.18ae4ab8.chunk.css",
-    "main.js": "/static/js/main.1a03827e.chunk.js",
-    "main.js.map": "/static/js/main.1a03827e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7ef3950d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7ef3950d.js.map",
-    "static/js/2.a46cb4a6.chunk.js": "/static/js/2.a46cb4a6.chunk.js",
-    "static/js/2.a46cb4a6.chunk.js.map": "/static/js/2.a46cb4a6.chunk.js.map",
-    "static/js/3.2a7751c1.chunk.js": "/static/js/3.2a7751c1.chunk.js",
-    "static/js/3.2a7751c1.chunk.js.map": "/static/js/3.2a7751c1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.18ae4ab8.chunk.css.map": "/static/css/main.18ae4ab8.chunk.css.map",
-    "static/js/2.a46cb4a6.chunk.js.LICENSE.txt": "/static/js/2.a46cb4a6.chunk.js.LICENSE.txt",
-    "static/media/city.92bd7bf4.jpg": "/static/media/city.92bd7bf4.jpg",
-    "static/media/ferry.009c277d.jpg": "/static/media/ferry.009c277d.jpg",
-    "static/media/forest.cf95148e.jpg": "/static/media/forest.cf95148e.jpg",
-    "static/media/mcgarity_s.54bbcb93.jpg": "/static/media/mcgarity_s.54bbcb93.jpg",
-    "static/media/snow.4da4ef28.jpg": "/static/media/snow.4da4ef28.jpg"
+    "main.css": "/strava-profile-resume/static/css/main.dc4b5623.chunk.css",
+    "main.js": "/strava-profile-resume/static/js/main.3e5b14f8.chunk.js",
+    "main.js.map": "/strava-profile-resume/static/js/main.3e5b14f8.chunk.js.map",
+    "runtime-main.js": "/strava-profile-resume/static/js/runtime-main.b09d0a08.js",
+    "runtime-main.js.map": "/strava-profile-resume/static/js/runtime-main.b09d0a08.js.map",
+    "static/js/2.a46cb4a6.chunk.js": "/strava-profile-resume/static/js/2.a46cb4a6.chunk.js",
+    "static/js/2.a46cb4a6.chunk.js.map": "/strava-profile-resume/static/js/2.a46cb4a6.chunk.js.map",
+    "static/js/3.2a7751c1.chunk.js": "/strava-profile-resume/static/js/3.2a7751c1.chunk.js",
+    "static/js/3.2a7751c1.chunk.js.map": "/strava-profile-resume/static/js/3.2a7751c1.chunk.js.map",
+    "index.html": "/strava-profile-resume/index.html",
+    "static/css/main.dc4b5623.chunk.css.map": "/strava-profile-resume/static/css/main.dc4b5623.chunk.css.map",
+    "static/js/2.a46cb4a6.chunk.js.LICENSE.txt": "/strava-profile-resume/static/js/2.a46cb4a6.chunk.js.LICENSE.txt",
+    "static/media/city.92bd7bf4.jpg": "/strava-profile-resume/static/media/city.92bd7bf4.jpg",
+    "static/media/ferry.009c277d.jpg": "/strava-profile-resume/static/media/ferry.009c277d.jpg",
+    "static/media/forest.cf95148e.jpg": "/strava-profile-resume/static/media/forest.cf95148e.jpg",
+    "static/media/mcgarity_s.54bbcb93.jpg": "/strava-profile-resume/static/media/mcgarity_s.54bbcb93.jpg",
+    "static/media/snow.4da4ef28.jpg": "/strava-profile-resume/static/media/snow.4da4ef28.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ef3950d.js",
+    "static/js/runtime-main.b09d0a08.js",
     "static/js/2.a46cb4a6.chunk.js",
-    "static/css/main.18ae4ab8.chunk.css",
-    "static/js/main.1a03827e.chunk.js"
+    "static/css/main.dc4b5623.chunk.css",
+    "static/js/main.3e5b14f8.chunk.js"
   ]
 }
