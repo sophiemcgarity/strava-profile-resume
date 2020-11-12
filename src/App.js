@@ -1,25 +1,32 @@
-import logo from './logo.svg';
 import './App.css';
+import React, { Component } from 'react';
+import Banner from './Components/Banner';
+import Main from './Components/Main';
+import Navigation from './Components/Navigation';
+import profileData from './profileData.json';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      bannerData : profileData.banner,
+      educationData : profileData.education,
+      socialData: profileData.social,
+      projectsData: profileData.projects
+    }
+  }
+
+  render() {
+
+    return (
+      <div className="App container">
+        <Navigation />
+        <Banner bannerData={this.state.bannerData}/>
+        <Main educationData={this.state.educationData} socialData={this.state.socialData} projectsData={this.state.projectsData}/>
+      </div>
+    );
+  }
 }
 
 export default App;
