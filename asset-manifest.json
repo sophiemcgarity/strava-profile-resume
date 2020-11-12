@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18ae4ab8.chunk.css",
+    "main.js": "/static/js/main.1a03827e.chunk.js",
+    "main.js.map": "/static/js/main.1a03827e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7ef3950d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7ef3950d.js.map",
+    "static/js/2.a46cb4a6.chunk.js": "/static/js/2.a46cb4a6.chunk.js",
+    "static/js/2.a46cb4a6.chunk.js.map": "/static/js/2.a46cb4a6.chunk.js.map",
+    "static/js/3.2a7751c1.chunk.js": "/static/js/3.2a7751c1.chunk.js",
+    "static/js/3.2a7751c1.chunk.js.map": "/static/js/3.2a7751c1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.18ae4ab8.chunk.css.map": "/static/css/main.18ae4ab8.chunk.css.map",
+    "static/js/2.a46cb4a6.chunk.js.LICENSE.txt": "/static/js/2.a46cb4a6.chunk.js.LICENSE.txt",
+    "static/media/city.92bd7bf4.jpg": "/static/media/city.92bd7bf4.jpg",
+    "static/media/ferry.009c277d.jpg": "/static/media/ferry.009c277d.jpg",
+    "static/media/forest.cf95148e.jpg": "/static/media/forest.cf95148e.jpg",
+    "static/media/mcgarity_s.54bbcb93.jpg": "/static/media/mcgarity_s.54bbcb93.jpg",
+    "static/media/snow.4da4ef28.jpg": "/static/media/snow.4da4ef28.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ef3950d.js",
+    "static/js/2.a46cb4a6.chunk.js",
+    "static/css/main.18ae4ab8.chunk.css",
+    "static/js/main.1a03827e.chunk.js"
+  ]
+}
