@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/strava-profile-resume/static/css/main.845e549f.chunk.css",
-    "main.js": "/strava-profile-resume/static/js/main.84ba9427.chunk.js",
-    "main.js.map": "/strava-profile-resume/static/js/main.84ba9427.chunk.js.map",
+    "main.js": "/strava-profile-resume/static/js/main.b6dad336.chunk.js",
+    "main.js.map": "/strava-profile-resume/static/js/main.b6dad336.chunk.js.map",
     "runtime-main.js": "/strava-profile-resume/static/js/runtime-main.b09d0a08.js",
     "runtime-main.js.map": "/strava-profile-resume/static/js/runtime-main.b09d0a08.js.map",
     "static/js/2.a46cb4a6.chunk.js": "/strava-profile-resume/static/js/2.a46cb4a6.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.b09d0a08.js",
     "static/js/2.a46cb4a6.chunk.js",
     "static/css/main.845e549f.chunk.css",
-    "static/js/main.84ba9427.chunk.js"
+    "static/js/main.b6dad336.chunk.js"
   ]
 }
